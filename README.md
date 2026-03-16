@@ -16,7 +16,8 @@ Information Systems and Technologies (in game industry)
 (2024 - ...)
 
 # **Languages**
- - C++
+
+ - C++ ([#f03c15](https://placehold.co/15x15/f03c15/f03c15.png))
  - Python
  - C#
  - Unity
@@ -26,7 +27,13 @@ Information Systems and Technologies (in game industry)
  - English (B2)
 
 # **Soft Skills**
+
  - Stress resilience
  - Ability to cooperate
  - Will to acquire new skills
  - Quick learner
+
+# **Contacts**
+
+Telegram: @wifeBeaterAntEater
+Discord: dead_hegelian
