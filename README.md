@@ -17,7 +17,7 @@ Information Systems and Technologies (in game industry)\
 
 ---
 
-# **Languages**
+# **Languages and Tools**
 
  - C++ (![#95D700](https://placehold.co/15x15/95d700/95d700.png)![#95D700](https://placehold.co/15x15/95d700/95d700.png)![#95D700](https://placehold.co/15x15/95d700/95d700.png)![#95D700](https://placehold.co/15x15/95d700/95d700.png)![#91877E](https://placehold.co/15x15/191919/191919.png))
  - Python (![#F1C232](https://placehold.co/15x15/f1c232/f1c232.png)![#F1C232](https://placehold.co/15x15/f1c232/f1c232.png)![#F1C232](https://placehold.co/15x15/f1c232/f1c232.png)![#91877E](https://placehold.co/15x15/191919/191919.png)![#91877E](https://placehold.co/15x15/191919/191919.png))
