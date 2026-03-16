@@ -15,6 +15,8 @@ Faculty of Information Technologies and Control\
 Information Systems and Technologies (in game industry)\
 (2024 - Present)
 
+---
+
 # **Languages**
 
  - C++ (![#95D700](https://placehold.co/15x15/95d700/95d700.png)![#95D700](https://placehold.co/15x15/95d700/95d700.png)![#95D700](https://placehold.co/15x15/95d700/95d700.png)![#95D700](https://placehold.co/15x15/95d700/95d700.png)![#91877E](https://placehold.co/15x15/191919/191919.png))
@@ -26,6 +28,8 @@ Information Systems and Technologies (in game industry)\
  - SQL (![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png)![#91877E](https://placehold.co/15x15/191919/191919.png)![#91877E](https://placehold.co/15x15/191919/191919.png)![#91877E](https://placehold.co/15x15/191919/191919.png)![#91877E](https://placehold.co/15x15/191919/191919.png))
  - English (B2)
 
+---
+
 # **Soft Skills**
 
  - Stress resilience
@@ -33,7 +37,10 @@ Information Systems and Technologies (in game industry)\
  - Will to acquire new skills
  - Quick learner
 
+---
+
 # **Contacts**
 
 Telegram: @wifeBeaterAntEater\
-Discord: dead_hegelian
+Discord: dead_hegelian\
+E-mail: maksimmelnikov67@gmail.com
