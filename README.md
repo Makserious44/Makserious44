@@ -17,13 +17,13 @@ Information Systems and Technologies (in game industry)
 
 # **Languages**
 
- - C++ (![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png))
- - Python
- - C#
- - Unity
- - Java
- - Git
- - SQL
+ - C++ (![#95D700](https://placehold.co/15x15/95d700/95d700.png)![#95D700](https://placehold.co/15x15/95d700/95d700.png)![#95D700](https://placehold.co/15x15/95d700/95d700.png)![#95D700](https://placehold.co/15x15/95d700/95d700.png))
+ - Python (![#F1C232](https://placehold.co/15x15/f1c232/f1c232.png)![#F1C232](https://placehold.co/15x15/f1c232/f1c232.png)![#F1C232](https://placehold.co/15x15/f1c232/f1c232.png))
+ - C# (![#F1C232](https://placehold.co/15x15/f1c232/f1c232.png)![#F1C232](https://placehold.co/15x15/f1c232/f1c232.png)![#F1C232](https://placehold.co/15x15/f1c232/f1c232.png))
+ - Unity(![#F1C232](https://placehold.co/15x15/f1c232/f1c232.png)![#F1C232](https://placehold.co/15x15/f1c232/f1c232.png)![#F1C232](https://placehold.co/15x15/f1c232/f1c232.png))
+ - Java (![#EE9621](https://placehold.co/15x15/ee9621/ee9621.png)![#EE9621](https://placehold.co/15x15/ee9621/ee9621.png))
+ - Git (![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png))
+ - SQL (![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png))
  - English (B2)
 
 # **Soft Skills**
