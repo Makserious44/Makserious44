@@ -17,13 +17,13 @@ Information Systems and Technologies (in game industry)
 
 # **Languages**
 
- - C++ (![#95D700](https://placehold.co/15x15/95d700/95d700.png)![#95D700](https://placehold.co/15x15/95d700/95d700.png)![#95D700](https://placehold.co/15x15/95d700/95d700.png)![#95D700](https://placehold.co/15x15/95d700/95d700.png))
- - Python (![#F1C232](https://placehold.co/15x15/f1c232/f1c232.png)![#F1C232](https://placehold.co/15x15/f1c232/f1c232.png)![#F1C232](https://placehold.co/15x15/f1c232/f1c232.png))
- - C# (![#F1C232](https://placehold.co/15x15/f1c232/f1c232.png)![#F1C232](https://placehold.co/15x15/f1c232/f1c232.png)![#F1C232](https://placehold.co/15x15/f1c232/f1c232.png))
- - Unity(![#F1C232](https://placehold.co/15x15/f1c232/f1c232.png)![#F1C232](https://placehold.co/15x15/f1c232/f1c232.png)![#F1C232](https://placehold.co/15x15/f1c232/f1c232.png))
- - Java (![#EE9621](https://placehold.co/15x15/ee9621/ee9621.png)![#EE9621](https://placehold.co/15x15/ee9621/ee9621.png))
- - Git (![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png))
- - SQL (![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png))
+ - C++ (![#95D700](https://placehold.co/15x15/95d700/95d700.png)![#95D700](https://placehold.co/15x15/95d700/95d700.png)![#95D700](https://placehold.co/15x15/95d700/95d700.png)![#95D700](https://placehold.co/15x15/95d700/95d700.png)![#91877E](https://placehold.co/15x15/91877e/91877e.png))
+ - Python (![#F1C232](https://placehold.co/15x15/f1c232/f1c232.png)![#F1C232](https://placehold.co/15x15/f1c232/f1c232.png)![#F1C232](https://placehold.co/15x15/f1c232/f1c232.png)![#91877E](https://placehold.co/15x15/91877e/91877e.png)![#91877E](https://placehold.co/15x15/91877e/91877e.png))
+ - C# (![#F1C232](https://placehold.co/15x15/f1c232/f1c232.png)![#F1C232](https://placehold.co/15x15/f1c232/f1c232.png)![#F1C232](https://placehold.co/15x15/f1c232/f1c232.png)![#91877E](https://placehold.co/15x15/91877e/91877e.png)![#91877E](https://placehold.co/15x15/91877e/91877e.png))
+ - Unity(![#F1C232](https://placehold.co/15x15/f1c232/f1c232.png)![#F1C232](https://placehold.co/15x15/f1c232/f1c232.png)![#F1C232](https://placehold.co/15x15/f1c232/f1c232.png)![#91877E](https://placehold.co/15x15/91877e/91877e.png)![#91877E](https://placehold.co/15x15/91877e/91877e.png))
+ - Java (![#EE9621](https://placehold.co/15x15/ee9621/ee9621.png)![#EE9621](https://placehold.co/15x15/ee9621/ee9621.png)![#91877E](https://placehold.co/15x15/91877e/91877e.png)![#91877E](https://placehold.co/15x15/91877e/91877e.png)![#91877E](https://placehold.co/15x15/91877e/91877e.png))
+ - Git (![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png)![#91877E](https://placehold.co/15x15/91877e/91877e.png)![#91877E](https://placehold.co/15x15/91877e/91877e.png)![#91877E](https://placehold.co/15x15/91877e/91877e.png)![#91877E](https://placehold.co/15x15/91877e/91877e.png))
+ - SQL (![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png)![#91877E](https://placehold.co/15x15/91877e/91877e.png)![#91877E](https://placehold.co/15x15/91877e/91877e.png)![#91877E](https://placehold.co/15x15/91877e/91877e.png)![#91877E](https://placehold.co/15x15/91877e/91877e.png))
  - English (B2)
 
 # **Soft Skills**
