@@ -55,5 +55,4 @@ Client-server application with GUI and Database\
 # **Contacts**
 
 Telegram: @wifeBeaterAntEater\
-Discord: dead_hegelian\
 E-mail: maksimmelnikov67@gmail.com
