@@ -1,41 +1,50 @@
-# **Education**
+# **Experience**
 
-## National Children's Technopark
+## Unity
+
+### National Children's Technopark
 Project: 'Hole lot of climbing' - Hardcore VR platformer game with unusual game mechanics making use of VR controls features\
 [Link to Repository](https://github.com/Makserious44/HoleLotOfClimbing)\
 (2023)
 
-## National Children's Technopark Remote Shift
+### National Children's Technopark Remote Shift
 Project: 'VRestoration' - Educational VR tool for getting acquainted with the basics of restoraion\
 [Link to Repository](https://github.com/Makserious44/LiterallyUnplayable)\
 (2023)
 
-## Belarusian State University of Informatics and Radioelectronics
-Faculty of Information Technologies and Control\
-Information Systems and Technologies (in game industry)\
-(2024 - Present)
+### Fungi Hackathon
+Project: FromPaperClip - Visual novel for PC platforms made in just 48 hours\
+[Link to Repository](https://github.com/Bloxodav/FromPaperClip)\
+(2026)
+
+## Java
+
+### 4th Semester Course Work
+Client-server application with GUI and Database
+[Link to Repository](https://github.com/Makserious44/3rdCourseWork)\
+(2026)
 
 ---
 
-# **Languages and Tools**
+## Tools and languages
 
- - C++ (![#F1C232](https://placehold.co/15x15/f1c232/f1c232.png)![#F1C232](https://placehold.co/15x15/f1c232/f1c232.png)![#F1C232](https://placehold.co/15x15/f1c232/f1c232.png)![#91877E](https://placehold.co/15x15/191919/191919.png)![#91877E](https://placehold.co/15x15/191919/191919.png))
- - Python (![#EE9621](https://placehold.co/15x15/ee9621/ee9621.png)![#EE9621](https://placehold.co/15x15/ee9621/ee9621.png)![#91877E](https://placehold.co/15x15/191919/191919.png)![#91877E](https://placehold.co/15x15/191919/191919.png)![#91877E](https://placehold.co/15x15/191919/191919.png))
- - C# (![#EE9621](https://placehold.co/15x15/ee9621/ee9621.png)![#EE9621](https://placehold.co/15x15/ee9621/ee9621.png)![#91877E](https://placehold.co/15x15/191919/191919.png)![#91877E](https://placehold.co/15x15/191919/191919.png)![#91877E](https://placehold.co/15x15/191919/191919.png))
- - Unity(![#EE9621](https://placehold.co/15x15/ee9621/ee9621.png)![#EE9621](https://placehold.co/15x15/ee9621/ee9621.png)![#91877E](https://placehold.co/15x15/191919/191919.png)![#91877E](https://placehold.co/15x15/191919/191919.png)![#91877E](https://placehold.co/15x15/191919/191919.png))
- - Java (![#EE9621](https://placehold.co/15x15/ee9621/ee9621.png)![#EE9621](https://placehold.co/15x15/ee9621/ee9621.png)![#91877E](https://placehold.co/15x15/191919/191919.png)![#91877E](https://placehold.co/15x15/191919/191919.png)![#91877E](https://placehold.co/15x15/191919/191919.png))
- - Git (![#EE9621](https://placehold.co/15x15/ee9621/ee9621.png)![#EE9621](https://placehold.co/15x15/ee9621/ee9621.png)![#91877E](https://placehold.co/15x15/191919/191919.png)![#91877E](https://placehold.co/15x15/191919/191919.png)![#91877E](https://placehold.co/15x15/191919/191919.png))
- - SQL (![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png)![#91877E](https://placehold.co/15x15/191919/191919.png)![#91877E](https://placehold.co/15x15/191919/191919.png)![#91877E](https://placehold.co/15x15/191919/191919.png)![#91877E](https://placehold.co/15x15/191919/191919.png))
- - English (C1)
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
+  <div>
+    - Java
+    - Hibernate
+    - MySQL
+    - C++
+  </div>
+  <div>
+    - Unity
+    - C#
+    - Python
+    - Git
+  </div>
+</div>
 
----
-
-# **Soft Skills**
-
- - Stress resilience
- - Ability to cooperate
- - Will to acquire new skills
- - Quick learner
+- English (C1)
+- Russian (Native)
 
 ---
 
