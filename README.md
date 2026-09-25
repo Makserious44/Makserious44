@@ -20,7 +20,7 @@ Project: FromPaperClip - Visual novel for PC platforms made in just 48 hours\
 ## Java
 
 ### 4th Semester Course Work
-Client-server application with GUI and Database
+Client-server application with GUI and Database\
 [Link to Repository](https://github.com/Makserious44/3rdCourseWork)\
 (2026)
 
@@ -28,20 +28,24 @@ Client-server application with GUI and Database
 
 ## Tools and languages
 
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
-  <div>
-    - Java
-    - Hibernate
-    - MySQL
-    - C++
-  </div>
-  <div>
-    - Unity
-    - C#
-    - Python
-    - Git
-  </div>
-</div>
+<table border="0">
+ <tr>
+    <td>Java</td>
+    <td>Unity</td>
+ </tr>
+ <tr>
+    <td>Hibernate</td>
+    <td>C#</td>
+ </tr>
+ <tr>
+    <td>MySQL</td>
+    <td>Python</td>
+ </tr>
+ <tr>
+    <td>C++</td>
+    <td>Git</td>
+ </tr>
+</table>
 
 - English (C1)
 - Russian (Native)
