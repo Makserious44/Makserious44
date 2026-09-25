@@ -28,7 +28,7 @@ Client-server application with GUI and Database
 
 ## Tools and languages
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
   <div>
     - Java
     - Hibernate
