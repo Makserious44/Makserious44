@@ -28,7 +28,7 @@ Client-server application with GUI and Database\
 
 ## Tools and languages
 
-<table border="0">
+<table>
  <tr>
     <td>Java</td>
     <td>Unity</td>
